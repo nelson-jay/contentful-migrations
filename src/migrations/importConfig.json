@@ -1,0 +1,7 @@
+{
+    "spaceId": "75118xdy8ym6",
+    "environmentId": "master",
+    "errorLogFile": "./error.log",
+    "contentFile": "./exports/export.json",
+    "content-model-only": false
+}

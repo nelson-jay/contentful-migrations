@@ -1,0 +1,19 @@
+{
+    "spaceId": "75118xdy8ym6",
+    "environmentId": "development",
+    "exportDir": "exports",
+    "saveFile": true,
+    "contentFile": "export.json",
+    "includeDrafts": false,
+    "includeArchived": false,
+    "skipContentModel": true,
+    "skipContent": false,
+    "skipRoles": true,
+    "skipWebhooks": true,
+    "contentOnly": false,
+    "downloadAssets": false,
+    "host": "api.contentful.com",
+    "maxAllowedLimit": 1000,
+    "errorLogFile": "./error.log",
+    "useVerboseRenderer": false
+  }
